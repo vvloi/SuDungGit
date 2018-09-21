@@ -2,7 +2,7 @@
  
 Local là cục source ở máy. Remote là branch của repository thấy ở Inventory [github, gitlab, bitbutket etc]
 
-git clone  git://github.com/xxx/yyy.git: clone repository về local
+git clone  https://github.com/vvloi/SuDungGit: clone repository về local
 
 git fetch: compare local và remote có thay đổi gì
 
